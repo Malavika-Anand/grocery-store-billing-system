@@ -1,0 +1,6 @@
+001|Oral-B Toothbrush|99|
+002|Dove Rose Fresh Soap|79|
+003|Tresemme Keratin Plus|299|
+004|Harpic Bathroom Cleaner|39|
+005|Unibic ChocoChip Cookie|20|
+006|Colgate Toothpaste|20|
